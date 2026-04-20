@@ -12,10 +12,13 @@
 Que tal uma partida enquanto você explora meu perfil? Este é um **Torneio de Xadrez Aberto** onde QUALQUER UM pode jogar. É a sua vez de mover as peças!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ermessondev/readme-chess/main/board.svg" alt="Interactive Chess Board" />
+  <a href="https://github.com/ermessondev/readme-chess">
+    <img src="https://raw.githubusercontent.com/ermessondev/readme-chess/master/README.md" alt="Interactive Chess Board" />
+  </a>
 </p>
 
-> **Como jogar:** Para fazer sua jogada, visite o repositório [ermessondev/readme-chess](https://github.com/ermessondev/readme-chess), e lá você encontrará as opções de movimento. Cada clique em um movimento abrirá uma "Issue" no GitHub; basta clicar em "Submit new issue" e o bot fará a jogada em alguns segundos!
+> **Como jogar:** Para fazer sua jogada, visite o repositório [ermessondev/readme-chess](https://github.com/ermessondev/readme-chess ). Lá você verá o tabuleiro real e as opções de movimento. Basta clicar em um movimento e enviar a Issue!
+
 
 ---
 
